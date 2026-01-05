@@ -1,5 +1,6 @@
-import Clock from "./components/Clock";
 import "./styles.css";
+import Clock from "./components/Clock";
+
 const CLOCK_THEMES = ["Stranger Things", "Kill Bill", "Breaking Bad"];
 function App() {
   return (
